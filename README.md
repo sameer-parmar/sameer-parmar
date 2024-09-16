@@ -15,6 +15,7 @@ I’m a 4th-year B.Tech student from Himachal Pradesh, India. I have experience 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=sameer-parmar&theme=merko)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sameer-parmar&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-parmar&layout=compact&theme=merko)
 
 ---
 
