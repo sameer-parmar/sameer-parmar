@@ -37,26 +37,26 @@ I’m a 4th-year B.Tech student from Himachal Pradesh, India. I have experience 
 ---
 
 ## 🚀 What I'm Working On:
-- **Mobile Health & Fitness App**: A .NET MAUI-based mobile application for tracking health and fitness, including sleep monitoring and data analysis.  
-  [Project Link - Placeholder](#)
+- **Mobile Virtual AI Sleep Monitor and Health App**: A .NET MAUI-based mobile application for tracking health and fitness, including sleep monitoring and data analysis.  
+  [Project Link](https://github.com/sameer-parmar/VirtualAiSleepMonitor)
 
 ---
 
 ## 🏆 What I’ve Done So Far:
 1. **Scalable Authentication System (Spring Boot)**: Backend system for a scalable authentication service using Spring Boot and MYSQL.  
-   [Source Code](#)
+   [Source Code](https://github.com/sameer-parmar/RegisterLogin)
 
 2. **FBA.ai (AI-Powered Hiring Platform)**: Contributed to the frontend development of an AI-powered hiring platform designed to assist companies in streamlining their hiring process using AI.  
    [Project Link](http://fba.ai/)
 
 3. **Snake Game (Python)**: Developed a classic Snake game using Python, showcasing the use of basic game logic and graphics handling.  
-   [Source Code](#)
+   [Source Code](https://github.com/sameer-parmar/snakeGame)
 
 4. **Pong Game (LÖVE2D + Lua)**: Built a Pong game using Lua and the LÖVE2D framework, focusing on game mechanics and user interaction.  
    [Source Code](#)
 
 5. **Point Collector (Unity + C#)**: A simple Unity game where the player collects points while avoiding obstacles, designed using C# for game logic.  
-   [Source Code - Placeholder](#)
+   [Source Code](https://github.com/sameer-parmar/PointCollectorGame)
 
 ---
 
