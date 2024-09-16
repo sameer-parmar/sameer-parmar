@@ -10,29 +10,30 @@ I’m a 4th-year B.Tech student from Himachal Pradesh, India. I have experience 
 
 ## 📈 GitHub Stats
 
-![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameer-parmar&show_icons=true&theme=radical&count_private=true&hide=stars)
+![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameer-parmar&show_icons=true&theme=merko&count_private=true&hide=stars)
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=sameer-parmar&theme=radical)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=sameer-parmar&theme=merko)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sameer-parmar&theme=radical&no-bg=true&no-frame=true&column=7&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sameer-parmar&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 🛠️ My Tech Stack:
 
 ### 🔧 Languages & Frameworks:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-563D7C?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Unity](https://img.shields.io/badge/Unity-FF6F61?style=for-the-badge&logo=unity&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ### 🛠️ Tools & Platforms:
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-00ED64?style=for-the-badge&logo=mongodb&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 
 ---
 
@@ -43,7 +44,7 @@ I’m a 4th-year B.Tech student from Himachal Pradesh, India. I have experience 
 ---
 
 ## 🏆 What I’ve Done So Far:
-1. **Scalable Authentication System (Spring Boot)**: Backend system for a scalable authentication service using Spring Boot and MYSQL.  
+1. **Scalable Authentication System (Spring Boot)**: Backend system for a scalable authentication service using Spring Boot and MySQL.  
    [Source Code](https://github.com/sameer-parmar/RegisterLogin)
 
 2. **FBA.ai (AI-Powered Hiring Platform)**: Contributed to the frontend development of an AI-powered hiring platform designed to assist companies in streamlining their hiring process using AI.  
