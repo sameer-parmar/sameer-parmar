@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Sameer Parmar!
+# Hi there, I'm Sameer Parmar!
 
-### 🚀 Full-Stack Developer | Java | Spring Boot | .NET | C# | Vue.js | AWS
+### Full-Stack Developer | Java | Spring Boot | .NET | C# | Vue.js | AWS
 
 ---
 
@@ -8,20 +8,21 @@ I’m a 4th-year B.Tech student from Himachal Pradesh, India. I have experience 
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
-![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameer-parmar&show_icons=true&theme=merko&count_private=true&hide=stars)
+### GitHub Stats Card
+![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameer-parmar&show_icons=true&theme=minimal&count_private=true)
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=sameer-parmar&theme=merko)
+### GitHub Contributions
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=sameer-parmar&theme=minimal)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sameer-parmar&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-parmar&layout=compact&theme=merko)
-
+### GitHub Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=sameer-parmar&theme=flat-square)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
-## 🛠️ My Tech Stack:
+## My Tech Stack:
 
-### 🔧 Languages & Frameworks:
+### Languages & Frameworks:
 ![Java](https://img.shields.io/badge/Java-563D7C?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -29,7 +30,7 @@ I’m a 4th-year B.Tech student from Himachal Pradesh, India. I have experience 
 ![Unity](https://img.shields.io/badge/Unity-FF6F61?style=for-the-badge&logo=unity&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vue.js&logoColor=white)
 
-### 🛠️ Tools & Platforms:
+### Tools & Platforms:
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-00ED64?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -38,13 +39,13 @@ I’m a 4th-year B.Tech student from Himachal Pradesh, India. I have experience 
 
 ---
 
-## 🚀 What I'm Working On:
+## What I'm Working On:
 - **Mobile Virtual AI Sleep Monitor and Health App**: A .NET MAUI-based mobile application for tracking health and fitness, including sleep monitoring and data analysis.  
   [Project Link](https://github.com/sameer-parmar/VirtualAiSleepMonitor)
 
 ---
 
-## 🏆 What I’ve Done So Far:
+## What I’ve Done So Far:
 1. **Scalable Authentication System (Spring Boot)**: Backend system for a scalable authentication service using Spring Boot and MySQL.  
    [Source Code](https://github.com/sameer-parmar/RegisterLogin)
 
@@ -62,19 +63,18 @@ I’m a 4th-year B.Tech student from Himachal Pradesh, India. I have experience 
 
 ---
 
-## 🌱 I’m currently learning:
+## I’m currently learning:
 - **.NET Core** for building robust and scalable applications.
 - **AWS Lambda** for serverless computing.
 - **Advanced Vue.js** techniques for more interactive UI components.
 
 ---
 
-## 📫 How to reach me:
+## How to reach me:
 - **Email**: sameerparmar.sp@gmail.com
 - **LinkedIn**: [Sameer Parmar](https://www.linkedin.com/in/sameerparmarr/)
 - **GitHub**: [@sameer-parmar](https://github.com/sameer-parmar)
 
 ---
-
-## 💡 Fun fact:
+## Fun fact:
 When I'm not coding, you'll find me exploring the scenic beauty of Himachal Pradesh or experimenting with game development in Unity. 🌄🎮
