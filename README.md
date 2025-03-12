@@ -1,6 +1,6 @@
 # Hi there, I'm Sameer Parmar!
 
-### Full-Stack Developer | Java | Spring Boot | .NET | C# | Vue.js | AWS | PYTHON
+### Full-Stack Developer | Java | Django | AWS | PYTHON
 
 ---
 
