@@ -133,12 +133,5 @@ Cross-platform mobile application for health tracking and sleep monitoring with 
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sameer-parmar&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-
----
 
 *"Building scalable solutions, one API at a time. Always excited to collaborate on innovative projects!"*
