@@ -2,7 +2,7 @@
 
 ## Backend Developer | Full-Stack Engineer | Open to Remote Opportunities
 
-I'm a passionate **Backend Developer** with 1+ years of professional experience specializing in **FastAPI**, **Django**, **Spring Boot**, and **cloud technologies**. Currently pursuing B.Tech in Computer Science while working remotely with global teams.
+I'm a passionate **Backend Developer** with 6+ months of professional experience  in **FastAPI**, **Spring Boot**, and **cloud technologies**. B.Tech in Computer Science while working remotely with global teams.
 
 🎯 **Currently:** Backend Developer at Bi Hub Solutions (Remote)  
 📍 **Location:** Gurugram, India  
@@ -109,11 +109,8 @@ Cross-platform mobile application for health tracking and sleep monitoring with 
 ---
 
 ## 📈 Professional Highlights
-
-- 🚀 **15+ REST APIs** developed and deployed in production
 - ⚡ **35% performance improvement** through code optimization
 - 🐳 **40% deployment time reduction** via Docker containerization
-- 👥 **Mentored 2 junior developers** in full-stack development
 - 🌍 **Remote work experience** with international teams
 
 ---
